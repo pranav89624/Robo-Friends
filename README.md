@@ -4,7 +4,7 @@
 
 <p id="description">Robo Friends is a simple and dynamic React.js web application that displays a list of robot profiles with randomly generated avatars using the <a href ="https://robohash.org/"> RoboHash API. </a>The application allows users to search for specific robots by name providing a smooth and interactive user experience with real-time search filtering.</p>
 
-<h2>🚀 Demo</h2>
+<h2>🚀 Live View</h2>
 
 [https://pranav89624.github.io/Robo-Friends/](https://pranav89624.github.io/Robo-Friends/)
 
