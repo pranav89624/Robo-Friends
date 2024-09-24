@@ -1,5 +1,4 @@
 
-
 <h1 align="center" id="title">Robo Friends</h1>
 
 <p align="center"><img src="https://socialify.git.ci/pranav89624/Robo-Friends/image?font=KoHo&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Light" alt="project-image"></p>
@@ -9,6 +8,23 @@
 <h2>🚀 Demo</h2>
 
 [https://pranav89624.github.io/Robo-Friends/](https://pranav89624.github.io/Robo-Friends/)
+
+<h2>⭐ Features </h2>
+<ul>
+  <li><b>React.js Framework:</b> Built using React.js, leveraging its component-based structure for a clean and modular codebase.</li>
+  <li><b>RoboHash API Integration:</b> Uses the RoboHash API to fetch and render unique robot avatars for each user in the list.</li>
+  <li><b>Search Functionality:</b> Implements a real-time search bar to filter robot profiles by name.</li>
+  <li><b>Dynamic Rendering:</b> Profiles are dynamically rendered, ensuring instant updates when new robots are added or when search queries are entered.</li>
+  <li><b>Responsive Design:</b> The app is fully responsive, providing an optimal user experience on both desktop and mobile devices.</li>
+</ul>
+
+<h2>💻 Technologies Used  </h2>
+<ul>
+  <li><b>React.js: </b>Front-end framework for building the user interface.</li>
+  <li><b>RoboHash API: </b>To generate unique robot images.</li>
+  <li><b>Tachyons CSS library: </b>For styling and layout.</li>
+  <li> <b>JavaScript:</b> For logic and interactivity. </li>
+</ul>
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -41,3 +57,7 @@ npm start
 ```
 http://localhost:3000
 ```
+
+
+<h2>  Contributing: </h2>
+<p>Feel free to submit issues or pull requests. Whether it’s bug fixes, improvements, or new features, contributions are always welcome!</p>
