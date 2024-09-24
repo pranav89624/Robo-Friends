@@ -1,9 +1,8 @@
-
 <h1 align="center" id="title">Robo Friends</h1>
 
 <p align="center"><img src="https://socialify.git.ci/pranav89624/Robo-Friends/image?font=KoHo&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Robo Friends is a simple and dynamic React.js web application that displays a list of robot profiles with randomly generated avatars using the RoboHash API. The application allows users to search for specific robots by name providing a smooth and interactive user experience with real-time search filtering.</p>
+<p id="description">Robo Friends is a simple and dynamic React.js web application that displays a list of robot profiles with randomly generated avatars using the <a href ="https://robohash.org/"> RoboHash API. </a>The application allows users to search for specific robots by name providing a smooth and interactive user experience with real-time search filtering.</p>
 
 <h2>🚀 Demo</h2>
 
